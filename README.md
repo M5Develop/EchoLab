@@ -5,7 +5,7 @@
 ![EchoLab](https://img.shields.io/badge/EchoLab-v3-00d4ff?style=flat-square)
 ![React](https://img.shields.io/badge/React-18-61dafb?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-12-ffca28?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 
 ---
 
