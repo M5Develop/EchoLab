@@ -38,7 +38,7 @@
 | Database | Cloud Firestore (with offline persistence) |
 | Storage | Firebase Storage |
 | Encoding | lamejs (MP3), jszip (batch) |
-| Metadata | music-metadata-browser |
+| Metadata | music-metadata |
 | State | React Context + IndexedDB (idb) |
 
 ---
